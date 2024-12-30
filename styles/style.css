@@ -18,13 +18,13 @@ p.title {
   text-align: center;
   font-size: xx-large;
   font-weight: bolder;
-  color: white;
+  color: black;
 }
 
 p.credit {
   position: absolute;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 #container {
